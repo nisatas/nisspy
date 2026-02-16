@@ -1,0 +1,4 @@
+/* Base styles - index.html links this file */
+#root {
+  min-height: 100vh;
+}

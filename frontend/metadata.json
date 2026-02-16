@@ -1,0 +1,8 @@
+{
+  "name": "Academic & Technical Productivity Coach",
+  "description": "A comprehensive scheduling and roadmap application for a 4th-year Computer Education student and Full Stack Trainee.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
